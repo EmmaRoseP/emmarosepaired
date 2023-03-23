@@ -1,6 +1,7 @@
 ## Hi there 👋
-### My name is Emma
-### I work as a QA analyst at Paired and I am learning Github
+- My name is Emma
+- I work as a QA analyst at Paired 
+- And I am learning Github
 
 <!--
 **emmarosepaired/emmarosepaired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
